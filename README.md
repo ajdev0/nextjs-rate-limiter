@@ -6,8 +6,6 @@
 const rateLimitMap = new Map();
 ```
 
-````
-
 Here, we initialize a new JavaScript Map called `rateLimitMap`. This map will store information about the number of requests made by each IP address and when the last reset occurred.
 
 2. **Rate Limit Middleware Function**
@@ -116,4 +114,7 @@ This middleware function acts as a gatekeeper for our API routes, ensuring that 
 
 This markdown includes the explanation of the rate limiting middleware as well as the steps to test it in your Next.js project.
 ```
-````
+
+```
+
+```
