@@ -1,0 +1,5 @@
+# Keep GitHub's language stats focused on the rate limiter, not scaffold files.
+# Stylesheets come from the create-next-app template.
+styles/** linguist-generated=true
+public/** linguist-vendored=true
+package-lock.json linguist-generated=true
